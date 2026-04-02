@@ -1,80 +1,76 @@
-# Hi, I'm Omar Mustafa
+<h1 align="center">Hi, I'm Omar Mustafa</h1>
+<h3 align="center">Computer Science Student | Full-Stack Developer | Flutter & AI Enthusiast</h3>
 
-Computer Science Student | Full-Stack Developer | Flutter & AI Enthusiast  
+- I’m currently working on **Web & Mobile Applications, AI-powered apps, and real-time systems**
+- I build **Full-Stack Applications** (React.js, Node.js, Flutter, REST APIs)
+- I’m looking to collaborate on **Web Development, Mobile Apps, and AI Projects**
+- Currently improving my skills in **Machine Learning, Backend Development, and System Design**
+- Reach me at **omarmz9909@gmail.com**
 
-I’m currently working on building web and mobile applications, including AI-powered apps and real-time systems  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-mostafa-5a431b3ba/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
 
-I build full-stack applications using React, Node.js, Flutter, and REST APIs  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  
+  <!-- Programming Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
 
-I’m looking to collaborate on Web Development, Mobile Apps, and AI-based Projects  
+  <!-- Web -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  </a>
 
-Currently improving my skills in Machine Learning, Backend Development, and System Design  
+  <!-- Frameworks -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  </a>
 
-Reach me at: omarmz9909@gmail.com  
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  </a>
 
-Connect with me:  
-LinkedIn: https://www.linkedin.com/in/omar-mostafa-5a431b3ba/  
+</p>
 
----
+<h3 align="left"> Highlighted Projects:</h3>
 
-## 🚀 Languages and Tools:
-c cplusplus csharp java javascript python sql mysql html css php dart flutter react nodejs rest_api xampp  
-
----
-
-## 🔥 Highlighted Projects:
-
-### 💬 Chat Application  
-Real-time chat app built with Flutter (similar to WhatsApp)  
-Includes messaging system, UI/UX, and real-time data handling  
-
-### 🤖 AI Chat App  
-Mobile AI chatbot using Flutter with API integration  
-Focused on smooth UI and real-time AI responses  
-
-### 🧠 Quiz Application  
-Interactive quiz app with scoring system and dynamic questions  
-
-### 🌐 Web Projects (10+ Websites)  
-Built multiple websites using HTML, CSS, JavaScript, PHP, and MySQL  
-Includes authentication systems, dashboards, and database-driven features  
-
-### 🎮 Games Collection (C++)  
-Developed 5 console-based games focusing on algorithms and logic  
-
-### 🏡 Chalet Web System  
-Full-stack website for a business chalet using React.js and Node.js  
-
----
-
-## 💼 Experience:
-
-### Data Processing Assistant (Part-time)  
-- Processed and organized structured company data  
-- Improved data readiness for internal systems  
-- Contributed to Filtra Tubes data handling  
-
-### Web Developer (Chalet Project)  
-- Built a complete web system for Quammoua Hostel  
-
----
-
-## 🎓 Education:
-
-Beirut Arab University  
-Computer Science Student (Expected Graduation: May 2026)  
-
-Relevant Coursework:  
-Machine Learning, Data Structures, Algorithms, OOP, Databases, Web Development, Networking, Software Engineering, Data Mining, Operating Systems  
-
----
-
-## 🌍 Additional Information:
-
-Languages:  
-Arabic (Native), English (Fluent), French (Intermediate)  
-
-Activities:  
-Football Team Member ⚽  
-Chess Player ♟️  
-Interested in strategic thinking and problem-solving  
+-  <b>Chat Application</b> — Real-time messaging app built with Flutter (WhatsApp-like)
+-  <b>AI Chat App</b> — Mobile chatbot with API integration and real-time responses
+-  <b>Quiz Application</b> — Interactive quiz system with scoring and dynamic questions
+-  <b>Web Projects (10+ Websites)</b> — Full-stack websites with authentication and dashboards
+-  <b>Games Collection</b> — 5 console-based C++ games focused on logic and algorithms
+-  <b>Chalet Web System</b> — Full-stack business website using React.js & Node.js
